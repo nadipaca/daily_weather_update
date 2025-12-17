@@ -3,6 +3,9 @@
 ## Overview
 This n8n workflow automatically fetches daily weather data for multiple cities, stores it in Supabase, and sends email notifications with weather alerts.
 
+## Demo
+![weather-n8n-automation-flow](./weather-n8n-automation.gif)
+
 ## Features
 - ✅ Fetches weather data from WeatherAPI.com
 - ✅ Processes multiple cities (London, New York, Tokyo, Paris, Sydney)
